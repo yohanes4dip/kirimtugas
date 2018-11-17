@@ -1,0 +1,54 @@
+#tabel_pesan_masuk tbody tr:hover {
+	cursor: pointer;
+}
+
+#sent_form {
+	width: 30%;
+	height: auto;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	display: none;
+	margin-right: 70px;
+}
+
+#list_file {
+	width: auto;
+    height: auto;
+    overflow: auto;
+    display: none;
+    max-height: 140px;
+    margin-bottom: 10px !important;
+}
+
+#menu {
+	padding-top: 40px;
+	margin-top: 1px;
+}
+
+.row {
+	margin-top: 20px !important;
+}
+
+.home_data {
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
+
+.user_data {
+	margin-top: 15px !important;
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
+
+.file_data {
+	margin-top: 15px !important;
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
+
+.message_data {
+	margin-top: 15px !important;
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
